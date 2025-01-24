@@ -2,12 +2,15 @@ Amir Souhail
 
 Engineer | Research & Development in Mechatronics | Soft Robotics | Additive Manufacturing
 
-I am an engineer from Pakistan, currently living and working in Italy. With a background in Electrical and Electronic Engineering (University of Bradford) and a Master’s in Mechanical Engineering specializing in soft robotics, I bridge the gap between electronics, mechanics, and software to develop cutting-edge robotic systems.
 
-During my Master’s, I focused on designing soft robotic grippers for rehabilitation and material manipulation, sparking my interest in flexible and adaptive robotic solutions. At the Italian Institute of Technology, I worked on variable stiffness in soft robotics, involving 3D printing, simulating mechanical and thermal behaviors, testing materials, and integrating electronics.
 
-Currently, I work as a Research and Development Engineer specializing in additive manufacturing and mechanical design. My role includes designing components in 3D, preparing technical drawings, and leveraging additive manufacturing techniques to optimize product design and functionality.
+I am an engineer from Pakistan, currently living and working in Italy, with a strong background in **Electrical and Electronic Engineering** (University of Bradford) and a Master’s in **Mechanical Engineering** specializing in soft robotics. I bridge the gap between **electronics**, **mechanical design**, and **software** to create cutting-edge robotic systems.
 
-At Edgelab, I collaborate on Autonomous Underwater Vehicle (AUV) projects, where I design parts, manage the BOM, oversee assembly, 3D print prototypes, and liaise with manufacturers for part sourcing.
+During my Master’s, I focused on **designing** soft robotic grippers for rehabilitation and material manipulation, igniting my passion for **flexible and adaptive robotic solutions**. At the Italian Institute of Technology, I advanced research on **variable stiffness in soft robotics**, which included **3D modeling**, simulating mechanical and thermal behaviors, testing materials, and integrating electronics.
 
-I use SolidWorks for CAD modeling and technical drawings, focusing on developing high-performance, functional systems. I am passionate about collaborating on innovative projects in mechatronics, robotics, and engineering design.
+Currently, I work as a **Research and Development Engineer** specializing in **additive manufacturing** and **mechanical design**. My role involves **3D designing** components, creating **technical drawings**, and optimizing product functionality through additive manufacturing techniques.
+
+At Edgelab, I contribute to **Autonomous Underwater Vehicle (AUV)** projects, where I handle **3D design** and prototyping using **SolidWorks**, manage the BOM, oversee assembly processes, and coordinate with manufacturers for part sourcing.
+
+I am proficient in **SolidWorks**, leveraging it extensively for **CAD modeling**, **technical drawings**, and developing high-performance systems. My expertise lies in designing innovative solutions in **mechatronics**, **robotics**, and **engineering design**.
+
