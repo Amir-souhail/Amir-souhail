@@ -10,7 +10,7 @@ During my Master’s, I focused on **designing** soft robotic grippers for rehab
 
 Currently, I work as a **Research and Development Engineer** specializing in **additive manufacturing** and **mechanical design**. My role involves **3D designing** components, creating **technical drawings**, and optimizing product functionality through additive manufacturing techniques.
 
-At Edgelab, I contribute to **Autonomous Underwater Vehicle (AUV)** projects, where I handle **3D design** and prototyping using **SolidWorks**, manage the BOM, oversee assembly processes, and coordinate with manufacturers for part sourcing.
+I contribute to **Autonomous Underwater Vehicle (AUV)** projects, where I handle **3D design** and prototyping using **SolidWorks**, manage the BOM, oversee assembly processes, and coordinate with manufacturers for part sourcing.
 
 I am proficient in **SolidWorks**, leveraging it extensively for **CAD modeling**, **technical drawings**, and developing high-performance systems. My expertise lies in designing innovative solutions in **mechatronics**, **robotics**, and **engineering design**.
 
