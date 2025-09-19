@@ -14,7 +14,12 @@ I contribute to **Autonomous Underwater Vehicle (AUV)** projects, where I handle
 
 I am proficient in **SolidWorks**, leveraging it extensively for **CAD modeling**, **technical drawings**, and developing high-performance systems. My expertise lies in designing innovative solutions in **mechatronics**, **robotics**, and **engineering design**.
 
-## Certifications
-- [Certified SOLIDWORKS Associate (CSWA)](Certificate_C-V4FU3TWQK5.pdf)
+## 📜 Certifications
+
+### Certified SOLIDWORKS Associate (CSWA)
+- [View Certificate (PDF)](Certificate_C-V4FU3TWQK5.pdf)  
+
+![CSWA QR Code](cswa_qr.png)
+
 
 
