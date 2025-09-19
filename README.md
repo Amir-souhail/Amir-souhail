@@ -14,3 +14,4 @@ I contribute to **Autonomous Underwater Vehicle (AUV)** projects, where I handle
 
 I am proficient in **SolidWorks**, leveraging it extensively for **CAD modeling**, **technical drawings**, and developing high-performance systems. My expertise lies in designing innovative solutions in **mechatronics**, **robotics**, and **engineering design**.
 
+<img src="Cover Plate (Exercise 257)/EXERCISE 257 REGENRATED.JPG" alt="EXERCISE 257 REGENRATED.JPG" width="500"/>
