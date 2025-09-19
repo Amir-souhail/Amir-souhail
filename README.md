@@ -16,10 +16,16 @@ I am proficient in **SolidWorks**, leveraging it extensively for **CAD modeling*
 
 ## 📜 Certifications  
 
-### Certified SOLIDWORKS Associate (CSWA)  
-- [View Certificate (PDF)](Certificate_C-V4FU3TWQK5.pdf)  
+<div align="center">
 
-![CSWA QR Code](C-V4FU3TWQK5.png)
+### Certified SOLIDWORKS Associate (CSWA)  
+
+🔗 [View Certificate (PDF)](Certificate_C-V4FU3TWQK5.pdf)  
+
+<img src="C-V4FU3TWQK5.png" alt="CSWA QR Code" width="200"/>
+
+</div>
+
 
 
 
