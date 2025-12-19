@@ -32,7 +32,7 @@ I am proficient in **SolidWorks**, leveraging it extensively for **CAD modeling*
 
 🔗 [View Certificate (PDF)](Certificate_C-F8Q9W3675K.pdf)  
 
-<img src="C-V4FU3TWQK5.png" alt="CSWA QR Code" width="200"/>
+<img src="C-F8Q9W3675K.png" alt="CSWA QR Code" width="200"/>
 
 </div>
 
